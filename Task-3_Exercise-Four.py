@@ -9,4 +9,4 @@ message=input("Please enter the message you want to display:")
 counter=int(input("How many times would you like for the message to be repeated?:"))
 for counter in range(counter):
       print(message)
-#The program caried out the task succesfuly 
+#The program carried out the task succesfuly 
